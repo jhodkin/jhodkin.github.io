@@ -8,8 +8,6 @@ permalink: /publications/
 
 \---
 
-
-
 {% for pub in site.data.publications %}
 
 \### {{ pub.title }}
@@ -18,7 +16,4 @@ permalink: /publications/
 
 {% if pub.url %}\[Link]({{ pub.url }}){% endif %}
 
-
-
 {% endfor %}
-
