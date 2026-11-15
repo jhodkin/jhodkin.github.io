@@ -1,0 +1,116 @@
+- title: "The Federated Adaptive Beamformer: A Distributed Optimization Approach for Adaptive Scalable On-Array Processing"
+  authors: "J. E. Hodkin, M. Parker"
+  venue: "GOMACTech, March 2026"
+  year: 2026
+  url: "https://hodkin.wordpress.com/wp-content/uploads/2026/06/fab_gomactech_public_v3.pdf"
+
+- title: "Nonlinear Beamforming in Digital Arrays for Weather Radar Networks"
+  authors: "J. E. Hodkin, E. Lee, V. Chandrasekar"
+  venue: "IEEE Transactions on Geoscience and Remote Sensing, Nov. 2025"
+  year: 2025
+
+- title: "Spectral Decision Support for Multifunction Phased Array Systems with Multiobjective Optimization"
+  authors: "R. Pooler, E. Lee, M. Parker, J. E. Hodkin"
+  venue: "IEEE, July 2024"
+  year: 2024
+
+- title: "Optimization of Lunar-Based Radar Networks Via a Multi-Disciplinary Analysis and Optimization (MDAO) Approach"
+  authors: "M. Gilmartin, S. Crum, J. Hodkin, et al"
+  venue: "AIAA SciTech, Jan. 2024"
+  year: 2024
+
+- title: "Low Noise Adaptive Digital Receiver for Doppler Sensor Networks"
+  authors: "J. E. Hodkin, V. Chandrasekar"
+  venue: "Sensors Letters, IEEE, November 2023"
+  year: 2023
+
+- title: "Doppler-Only Multistatic Radar via Sequential Convex Optimization"
+  authors: "J. E. Hodkin, V. Chandrasekar"
+  venue: "International Radar Conference, IEEE, May 2020"
+  year: 2020
+
+- title: "Challenges of retro-directive and open-loop coherent distributed systems"
+  authors: "R. L. Schmid, M. D. Sharp, M. T. Ho, R. K. McCargar, C. L. Hedge, J. E. Hodkin"
+  venue: "Tri-service Radar Symposium, June 2018"
+  year: 2018
+
+- title: "On the Use of Synthetic Aperture Radar (SAR) as a Tool for Ionospheric Irregularity Characterization"
+  authors: "J. P. Conroy, J. Hodkin, K. Deshpande"
+  venue: "URSI-NRSM, 2018"
+  year: 2018
+  url: "https://www.usnc-ursi-archive.org/nrsm/2018/papers/G1-3.pdf"
+
+- title: "Microwave Wireless Coordination Technologies for Coherent Distributed Maritime Radar"
+  authors: "R. L. Schmid, S. Ellison, T. M. Comberiate, J. Hodkin, J. A. Nanzer"
+  venue: "Proceedings IEEE International Microwave Symposium, June 2017"
+  year: 2017
+
+- title: "A Distributed RF Transmitter Using One-Way Wireless Clock Transfer"
+  authors: "R. L. Schmid, T. M. Comberiate, J. E. Hodkin, J. A. Nanzer"
+  venue: "IEEE Microwave and Wireless Components Letters 27: 2, 195-197, Feb."
+  year: 2017
+
+- title: "Open-Loop Coherent Distributed Arrays"
+  authors: "J. A. Nanzer, R. L. Schmid, T. M. Comberiate, J. E. Hodkin"
+  venue: "IEEE Transactions on Microwave Theory and Techniques PP: 99, 1-11"
+  year: 2017
+
+- title: "A Bandpass Sampling Receiver for Wide-Bandwidth, Spectrally-Sparse Waveforms for High-Accuracy Range Measurements"
+  authors: "T. M. Comberiate, R. L. Schmid, J. E. Hodkin, M. D. Sharp, J. A. Nanzer"
+  venue: "IEEE Microwave and Wireless Components Letters 27: 1, 88-90, Jan."
+  year: 2017
+
+- title: "Platform placement for side lobe mitigation in mobile sparse arrays"
+  authors: "T. M. Comberiate, R. L. Schmid, J. E. Hodkin, J. A. Nanzer"
+  venue: "2016 USNC-URSI Radio Science Meeting, 7-8"
+  year: 2016
+
+- title: "IQ imbalance decorrelation in digital array radars"
+  authors: "J. E. Hodkin, O. F. Somerlock, M. D. Sharp, C. L. Farthing, S. H. Talisa, K. W. O'Haver"
+  venue: "2016 IEEE Aerospace Conference, 1-8"
+  year: 2016
+
+- title: "Angle resolution using Interferometric spatial frequency modulation"
+  authors: "R. L. Schmid, J. E. Hodkin, T. M. Comberiate, M. D. Sharp, J. A. Nanzer"
+  venue: "2016 IEEE International Symposium on Antennas and Propagation (APSURSI), 2039-2040"
+  year: 2016
+
+- title: "Distributed transmit beamforming on mobile platforms using high-accuracy microwave wireless positioning"
+  authors: "Thomas M. Comberiate, Kojo S. Zilevu, Jason E. Hodkin, Jeffrey A. Nanzer"
+  venue: "Proc. SPIE 9829, 98291-98291"
+  year: 2016
+
+- title: "Demonstration of a Coherent RF Repeater for Distributed Communications"
+  authors: "T. Comberiate, R. L. Schmid, J. E. Hodkin, J. A. Nanzer"
+  venue: "IEEE Wireless Communications Letters 5: 2, 148-151, April"
+  year: 2016
+
+- title: "Waveforms and signal processing for high-accuracy microwave metrology"
+  authors: "K. S. Zilevu, J. E. Hodkin, M. D. Sharp, T. M. Comberiate, J. A. Nanzer"
+  venue: "2015 IEEE International Symposium on Antennas and Propagation USNC/URSI National Radio Science Meeting, 977-978"
+  year: 2015
+
+- title: "A Coherent RF repeater for distributed communications"
+  authors: "T. M. Comberiate, K. S. Zilevu, J. E. Hodkin, J. A. Nanzer"
+  venue: "2015 USNC-URSI Radio Science Meeting (Joint with AP-S Symposium), 211-211"
+  year: 2015
+
+- title: "Microwave and millimeter-wave ranging for coherent distributed RF systems"
+  authors: "J. E. Hodkin, K. S. Zilevu, M. D. Sharp, T. M. Comberiate, S. M. Hendrickson, M. J. Fitch, J. A. Nanzer"
+  venue: "2015 IEEE Aerospace Conference, 1-7"
+  year: 2015
+
+- title: "Sandwich module prototype progress for space solar power"
+  authors: "P. Jaffe, J. Hodkin, F. Harrington, C. Person, M. Nurnberger, B. Nguyen, S. LaCava, D. Scheiman, G. Stewart, A. Han, E. Hettwer, D. Rhoades"
+  venue: "Acta Astronautica 94: 2, 662-671, February"
+  year: 2014
+
+- title: "Sandwich Module Prototype Progress for Space Solar Power"
+  authors: "Paul I. Jaffe, Jason E. Hodkin, Forest L. Harrington, et al"
+  venue: "International Astronautical Congress 2012 Conference Proceedings, International Astronautical Federation"
+  year: 2012
+
+- title: "Development of a Sandwich Module Prototype for Space Solar Power"
+  authors: "Paul I. Jaffe, Jason E. Hodkin, Forest L. Harrington"
+  venue: "Proceedings of the 2012 IEEE Aerospace Conference, IEEE"
+  year: 2012
